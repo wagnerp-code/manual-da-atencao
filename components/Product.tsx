@@ -14,7 +14,7 @@ export const Product: React.FC = () => {
           <div className="relative group perspective-1000">
             <div className="absolute -inset-0.5 bg-gradient-to-r from-orange-500 to-yellow-500 rounded-lg blur opacity-30 group-hover:opacity-50 transition duration-1000"></div>
             <img 
-              src="https://placehold.co/400x600/c2410c/ffffff.png?text=MANUAL%0ADA%20ATENÇÃO&font=oswald" 
+              src="/MANUAL DA ATENÇÃO CAPA.png" 
               alt="Capa do Manual da Atenção" 
               className="relative w-64 md:w-72 rounded-lg shadow-2xl transform transition-transform duration-500 hover:scale-[1.02] bg-slate-800"
             />
