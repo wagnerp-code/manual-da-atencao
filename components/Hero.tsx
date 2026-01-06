@@ -15,7 +15,7 @@ export const Hero: React.FC = () => {
       </div>
       
       <h1 className="text-4xl md:text-5xl font-bold tracking-tight text-slate-900 leading-[1.1] mb-6">
-        Faça qualquer pessoa parar o feed em até <span className="bg-yellow-200 px-1">3 segundos</span>
+        Faça qualquer pessoa parar o feed em <span className="bg-yellow-200 px-1">3 segundos - e TE ASSISTIR</span>
       </h1>
       
       <p className="text-lg md:text-xl text-slate-600 mb-8 leading-relaxed">
@@ -28,7 +28,7 @@ export const Hero: React.FC = () => {
       </Button>
       
       <p className="mt-4 text-xs text-slate-400">
-        Acesso imediato • Leitura rápida • Aplicação prática
+        Acesso imediato • Sem Mensalidades • Aplicação prática
       </p>
     </section>
   );
