@@ -28,10 +28,17 @@ export const Pricing: React.FC = () => {
           </p>
         </div>
 
-        <Button fullWidth className="mb-4 text-xl">
-          COMPRAR MANUAL AGORA
-          <ArrowRight />
-        </Button>
+       <a
+  href="https://pay.cakto.com.br/nokig4w_715248"
+  target="_blank"
+  rel="noopener noreferrer"
+>
+  <Button fullWidth className="mb-4 text-xl">
+    COMPRAR MANUAL AGORA
+    <ArrowRight />
+  </Button>
+</a>
+
 
         <div className="flex justify-center items-center gap-2 text-slate-400 text-xs">
           <ShieldCheck size={14} />
